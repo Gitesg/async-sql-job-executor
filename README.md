@@ -1,4 +1,4 @@
-# async-sql-job-executor
+# async-sql-job-executor(WIP)
 
 An asynchronous SQL query execution service that runs heavy SQL queries using background workers and controlled database connection pooling.
 
